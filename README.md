@@ -68,7 +68,7 @@ Constraints:
 }  
 # Results 
 
-Gives pretty good results between 115% to 160% , sometimes even more on the initial capital given.   
+Gives pretty good results between 15% to 60%  return on investments, sometimes even more on the initial capital given.   
 # Conclusion 
 
 This project demonstrates the application of classical AI search algorithms to financial decision-making. By combining heuristic scoring with real-world constraints, the agent balances exploration (A*) and exploitation (Greedy Search) to simulate profitable trading strategies.   
